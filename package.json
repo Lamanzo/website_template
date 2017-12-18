@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Lamanzo/website_template/issues"
   },
-  "homepage": "https://github.com/Lamanzo/website_template#readme"
+  "homepage": "https://github.com/Lamanzo/website_template#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
 }
